@@ -1,22 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="All Test Suite">
-    <test verbose="2" preserve-order="true" name="ParaBank_TestAutomation">
-        <classes>
-            <class name="GUI_ParaBank_Tests.Gui_Register_Test">
-                <methods>
-                    <include name="Register"/>
-                    <include name="UserLogin"/>
-                </methods>
-            </class>
-
-            <class name="GUI_Account_Tests.Gui_Account_Test">
-                <methods>
-                    <include name="OpenNewAccount"/>
-                    <include name="OpenNewAccountButton"/>
-                    <include name="AccountOverView"/>
-                </methods>
-            </class>
-        </classes>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="ParaBankSuite">
+    <test thread-count="5" name="ParaBankTest">
+    <classes>
+        <class name="test.RegisterTest"/>
+        <class name="test.loginTest"/>
+        <class name="test.openAccountTest"/>
+        <class name="test.transferFundsTest"/>
+        <class name="test.requestLoanTest"/>
+    </classes>
     </test>
 </suite>

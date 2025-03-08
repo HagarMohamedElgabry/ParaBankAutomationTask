@@ -4,16 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35b29e77-0828-42a5-9d65-94c7121d6cb4" name="Changes" comment="" />
+    <list default="true" id="37379b24-16ec-4c86-949c-e5f033d26269" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
+  "associatedIndex": 4
 }]]></component>
-  <component name="ProjectId" id="2u369COurjHuHhLaN29U62kHLTt" />
+  <component name="ProjectId" id="2u33kkXcykJUE6v3tpOqxck40P6" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -21,18 +21,99 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.C:/Rasan - Motor Project/ParaBankTask-main/ParaBankTask-main/ParaBank/register.xml.executor": "Run",
+    "TestNG.C:/Rasan - Motor Project/ParaBankTask-main/ParaBankTask-main/ParaBank/testng.xml.executor": "Run",
+    "TestNG.loginTest.executor": "Run",
+    "TestNG.requestLoanTest.executor": "Run",
+    "TestNG.transferFundsTest.fundTransfer.executor": "Run",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Rasan - Motor Project/ParaBank_TestAutomation-main"
+    "last_opened_file_path": "C:/Rasan - Motor Project/ParaBankTask-main"
   }
 }]]></component>
+  <component name="RunManager" selected="TestNG.C:/Rasan - Motor Project/ParaBankTask-main/ParaBankTask-main/ParaBank/requestLoan.xml">
+    <configuration name="C:/Rasan - Motor Project/ParaBankTask-main/ParaBankTask-main/ParaBank/register.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ParaBank" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/ParaBankTask-main/ParaBank/register.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Rasan - Motor Project/ParaBankTask-main/ParaBankTask-main/ParaBank/requestLoan.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ParaBank" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/ParaBankTask-main/ParaBank/requestLoan.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Rasan - Motor Project/ParaBankTask-main/ParaBankTask-main/ParaBank/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ParaBank" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/ParaBankTask-main/ParaBank/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="requestLoanTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ParaBank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.requestLoanTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="transferFundsTest.fundTransfer" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ParaBank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.transferFundsTest" />
+      <option name="METHOD_NAME" value="fundTransfer" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Rasan - Motor Project/ParaBankTask-main/ParaBankTask-main/ParaBank/requestLoan.xml" />
+        <item itemvalue="TestNG.C:/Rasan - Motor Project/ParaBankTask-main/ParaBankTask-main/ParaBank/register.xml" />
+        <item itemvalue="TestNG.C:/Rasan - Motor Project/ParaBankTask-main/ParaBankTask-main/ParaBank/testng.xml" />
+        <item itemvalue="TestNG.transferFundsTest.fundTransfer" />
+        <item itemvalue="TestNG.requestLoanTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="35b29e77-0828-42a5-9d65-94c7121d6cb4" name="Changes" comment="" />
-      <created>1741464756393</created>
+      <changelist id="37379b24-16ec-4c86-949c-e5f033d26269" name="Changes" comment="" />
+      <created>1741463575605</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1741464756393</updated>
+      <updated>1741463575605</updated>
     </task>
     <servers />
   </component>
